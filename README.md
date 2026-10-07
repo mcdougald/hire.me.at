@@ -42,7 +42,7 @@ Hire is career ops for one job seeker. Most people rebuild their job search from
 
 ## Part of the me.at family
 
-hire.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+hire.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
