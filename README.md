@@ -7,7 +7,7 @@
 
 # hire.me.at
 
-Stay hireable. Never start over.
+Stay hireable. Era after era.
 
 Hire is career ops for one job seeker. Most people rebuild their job search from nothing every few years; hire keeps it: the pipeline, the resume history, the answers, the stories, the contacts, and the evidence about what actually worked. It assists and never auto-applies: a human presses every apply button. Everything in your workspace is private to your account, and the whole thing is self-hostable.
 
