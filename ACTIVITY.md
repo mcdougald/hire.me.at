@@ -4,13 +4,13 @@ I build Hire in my private monorepo, next to the rest of my `*.me.at` apps.
 This file mirrors that work. Every sync regenerates it from the monorepo's
 history for this app, so it changes when the app does.
 
-Latest change: **2026-10-19**
+Latest change: **2026-10-20**
 
 ## By week
 
 | Week of | Commits | Files touched |
 |---|---:|---:|
-| 2026-10-19 | 7 | 38 |
+| 2026-10-19 | 8 | 38 |
 | 2026-10-12 | 15 | 94 |
 | 2026-10-05 | 3 | 65 |
 | 2026-09-28 | 14 | 329 |
